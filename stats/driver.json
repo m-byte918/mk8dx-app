@@ -1,6 +1,6 @@
 {
     "driverClass0": {
-        "drivers": [ "Baby Daisy", "Baby Peach" ],
+        "members": [ "Baby Daisy", "Baby Peach" ],
         "speedGnd": 2.5,
         "speedWtr": 2.75,
         "speedAir": 3,
@@ -16,7 +16,7 @@
         "invincibility": 4
     },
     "driverClass1": {
-        "drivers": [ "Baby Rosalina", "Lemmy" ],
+        "members": [ "Baby Rosalina", "Lemmy" ],
         "speedGnd": 2.5,
         "speedWtr": 2.75,
         "speedAir": 3,
@@ -32,7 +32,7 @@
         "invincibility": 4
     },
     "driverClass2": {
-        "drivers": [ "Baby Luigi", "Baby Mario", "Dry Bones" ],
+        "members": [ "Baby Luigi", "Baby Mario", "Dry Bones", "Mii (Light)" ],
         "speedGnd": 2.75,
         "speedWtr": 3,
         "speedAir": 3.25,
@@ -48,7 +48,7 @@
         "invincibility": 4
     },
     "driverClass3": {
-        "drivers": [ "Bowser Jr", "Koopa Troopa", "Lakitu" ],
+        "members": [ "Bowser Jr", "Koopa Troopa", "Lakitu" ],
         "speedGnd": 3,
         "speedWtr": 3.25,
         "speedAir": 3.5,
@@ -64,7 +64,7 @@
         "invincibility": 3.75
     },
     "driverClass4": {
-        "drivers": [ "Isabelle", "Toadette", "Wendy" ],
+        "members": [ "Isabelle", "Toadette", "Wendy" ],
         "speedGnd": 3,
         "speedWtr": 3.25,
         "speedAir": 3.5,
@@ -80,7 +80,7 @@
         "invincibility": 3.75
     },
     "driverClass5": {
-        "drivers": [ "Larry", "Shy Guy", "Toad" ],
+        "members": [ "Larry", "Shy Guy", "Toad" ],
         "speedGnd": 3.25,
         "speedWtr": 3.5,
         "speedAir": 3.75,
@@ -96,7 +96,7 @@
         "invincibility": 3.5
     },
     "driverClass6": {
-        "drivers": [ "Cat Peach", "Inkling Girl", "Villager (female)" ],
+        "members": [ "Cat Peach", "Inkling Girl", "Villager (female)" ],
         "speedGnd": 3.5,
         "speedWtr": 3.75,
         "speedAir": 4,
@@ -112,7 +112,7 @@
         "invincibility": 3.5
     },
     "driverClass7": {
-        "drivers": [ "Birdo", "Daisy", "Peach", "Yoshi" ],
+        "members": [ "Birdo", "Daisy", "Peach", "Yoshi" ],
         "speedGnd": 3.75,
         "speedWtr": 4,
         "speedAir": 4.25,
@@ -128,7 +128,7 @@
         "invincibility": 3.25
     },
     "driverClass8": {
-        "drivers": [ "Inkling Boy", "Tanooki Mario", "Villager (male)" ],
+        "members": [ "Inkling Boy", "Tanooki Mario", "Villager (male)" ],
         "speedGnd": 3.75,
         "speedWtr": 4,
         "speedAir": 4.25,
@@ -144,7 +144,7 @@
         "invincibility": 3.25
     },
     "driverClass9": {
-        "drivers": [ "Iggy", "Luigi" ],
+        "members": [ "Iggy", "Luigi" ],
         "speedGnd": 4,
         "speedWtr": 4.25,
         "speedAir": 4.5,
@@ -160,7 +160,7 @@
         "invincibility": 3.25
     },
     "driverClass10": {
-        "drivers": [ "Ludwig", "Mario", "Mii (Medium)" ],
+        "members": [ "Ludwig", "Mario", "Mii (Medium)" ],
         "speedGnd": 4,
         "speedWtr": 4.25,
         "speedAir": 4.5,
@@ -176,7 +176,7 @@
         "invincibility": 3.25
     },
     "driverClass11": {
-        "drivers": [ "King Boo", "Link", "Rosalina" ],
+        "members": [ "King Boo", "Link", "Rosalina" ],
         "speedGnd": 4.25,
         "speedWtr": 4.5,
         "speedAir": 4.75,
@@ -192,7 +192,7 @@
         "invincibility": 3
     },
     "driverClass12": {
-        "drivers": [ "Donkey Kong", "Roy", "Waluigi" ],
+        "members": [ "Donkey Kong", "Roy", "Waluigi" ],
         "speedGnd": 4.5,
         "speedWtr": 4.75,
         "speedAir": 5,
@@ -208,7 +208,7 @@
         "invincibility": 2.75
     },
     "driverClass13": {
-        "drivers": [ "Dry Bowser", "Wario" ],
+        "members": [ "Dry Bowser", "Wario" ],
         "speedGnd": 4.75,
         "speedWtr": 5,
         "speedAir": 5.25,
@@ -224,7 +224,7 @@
         "invincibility": 2.75
     },
     "driverClass14": {
-        "drivers": [ "Metal Mario", "Pink Gold Peach" ],
+        "members": [ "Metal Mario", "Pink Gold Peach" ],
         "speedGnd": 4.25,
         "speedWtr": 4.5,
         "speedAir": 4.75,
@@ -240,7 +240,7 @@
         "invincibility": 2.75
     },
     "driverClass15": {
-        "drivers": [ "Bowser", "Mii (Heavy)", "Morton" ],
+        "members": [ "Bowser", "Mii (Heavy)", "Morton" ],
         "speedGnd": 4.75,
         "speedWtr": 5,
         "speedAir": 5.25,

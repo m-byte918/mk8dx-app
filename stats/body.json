@@ -1,15 +1,15 @@
 {
     "bodyClass0": {
-        "bodies": [ "Standard Kart", "The Duke" ],
+        "members": [ "Standard Kart", "The Duke" ],
         "miniturbo": 0.25
     },
     "bodyClass1": {
-        "bodies": [ "300 SL Roadster" ],
+        "members": [ "300 SL Roadster" ],
         "miniturbo": 0.25,
         "invincibility": 0.25
     },
     "bodyClass2": {
-        "bodies": [ "Pipe Frame" ],
+        "members": [ "Pipe Frame" ],
         "speedGnd": -0.5,
         "speedAir": -0.5,
         "speedGrv": -0.5,
@@ -24,7 +24,7 @@
         "invincibility": -0.25
     },
     "bodyClass3": {
-        "bodies": [ "City Tripper", "Varmint" ],
+        "members": [ "City Tripper", "Varmint" ],
         "speedGnd": -0.5,
         "speedAir": -0.5,
         "speedGrv": -0.5,
@@ -39,7 +39,7 @@
         "invincibility": -0.5
     },
     "bodyClass4": {
-        "bodies": [ "Mach 8", "Sports Coupe" ],
+        "members": [ "Mach 8", "Sports Coupe" ],
         "speedAir": 0.25,
         "speedGrv": 0.5,
         "acceleration": -0.25,
@@ -52,7 +52,7 @@
         "invincibility": 0.25
     },
     "bodyClass5": {
-        "bodies": [ "Inkstriker" ],
+        "members": [ "Inkstriker" ],
         "speedAir": 0.25,
         "speedGrv": 0.5,
         "acceleration": -0.25,
@@ -64,7 +64,7 @@
         "miniturbo": 0.25
     },
     "bodyClass6": {
-        "bodies": [ "Steel Driver", "Tri-Speeder" ],
+        "members": [ "Steel Driver", "Tri-Speeder" ],
         "speedGnd": 0.25,
         "speedWtr": 0.5,
         "speedAir": -0.75,
@@ -79,7 +79,7 @@
         "invincibility": 0.75
     },
     "bodyClass7": {
-        "bodies": [ "Bone Rattler" ],
+        "members": [ "Bone Rattler" ],
         "speedGnd": 0.25,
         "speedWtr": 0.5,
         "speedAir": -0.75,
@@ -94,7 +94,7 @@
         "invincibility": 0.5
     },
     "bodyClass8": {
-        "bodies": [ "Cat Cruiser", "Teddy Buggy" ],
+        "members": [ "Cat Cruiser", "Teddy Buggy" ],
         "speedGnd": -0.25,
         "speedWtr": -0.25,
         "speedAir": 0.25,
@@ -104,7 +104,7 @@
         "miniturbo": 0.5
     },
     "bodyClass9": {
-        "bodies": [ "Comet*",  "Yoshi Bike*" ],
+        "members": [ "Comet",  "Yoshi Bike" ],
         "speedGnd": 0.25,
         "speedWtr": 0.25,
         "speedAir": 0.25,
@@ -115,7 +115,7 @@
         "invincibility": 0.25
     },
     "bodyClass10": {
-        "bodies": [ "B Dasher", "Circuit Special", "P-Wing" ],
+        "members": [ "B Dasher", "Circuit Special", "P-Wing" ],
         "speedGnd": 0.5,
         "speedWtr": -0.5,
         "speedAir": -0.25,
@@ -131,7 +131,7 @@
         "invincibility": 0.75
     },
     "bodyClass11": {
-        "bodies": [ "Badwagon", "GLA" ],
+        "members": [ "Badwagon", "GLA" ],
         "speedGnd": 0.5,
         "speedWtr": -0.25,
         "speedAir": -0.5,
@@ -146,7 +146,7 @@
         "invincibility": 1
     },
     "bodyClass12": {
-        "bodies": [ "Standard ATV" ],
+        "members": [ "Standard ATV" ],
         "speedGnd": 0.5,
         "speedWtr": -0.25,
         "speedAir": -0.5,
@@ -161,7 +161,7 @@
         "invincibility": 0.75
     },
     "bodyClass13": {
-        "bodies": [ "Prancer" ],
+        "members": [ "Prancer" ],
         "speedGnd": 0.25,
         "acceleration": -0.5,
         "weight": -0.25,
@@ -171,7 +171,7 @@
         "invincibility": 0.5
     },
     "bodyClass14": {
-        "bodies": [ "Jet Bike*", "Sport Bike*" ],
+        "members": [ "Jet Bike", "Sport Bike" ],
         "speedGnd": 0.25,
         "acceleration": -0.5,
         "weight": -0.25,
@@ -180,7 +180,7 @@
         "traction": -0.25
     },
     "bodyClass15": {
-        "bodies": [ "Biddybuggy", "Mr Scooty" ],
+        "members": [ "Biddybuggy", "Mr Scooty" ],
         "speedGnd": -0.75,
         "speedWtr": -0.5,
         "speedAir": -0.5,
@@ -196,7 +196,7 @@
         "invincibility": -0.75
     },
     "bodyClass16": {
-        "bodies": [ "Landship" ],
+        "members": [ "Landship" ],
         "speedGnd": -0.5,
         "speedWtr": 0.5,
         "speedAir": -0.25,
@@ -211,7 +211,7 @@
         "invincibility": -0.5
     },
     "bodyClass17": {
-        "bodies": [ "Streetle" ],
+        "members": [ "Streetle" ],
         "speedGnd": -0.5,
         "speedWtr": 0.5,
         "speedAir": -0.25,
@@ -226,7 +226,7 @@
         "invincibility": -0.25
     },
     "bodyClass18": {
-        "bodies": [ "Sneeker" ],
+        "members": [ "Sneeker" ],
         "speedGnd": 0.25,
         "speedWtr": -0.25,
         "acceleration": -0.5,
@@ -235,7 +235,7 @@
         "invincibility": 0.5
     },
     "bodyClass19": {
-        "bodies": [ "Gold Standard" ],
+        "members": [ "Gold Standard" ],
         "speedGnd": 0.25,
         "speedWtr": -0.25,
         "acceleration": -0.5,
@@ -244,7 +244,7 @@
         "invincibility": 0.25
     },
     "bodyClass20": {
-        "bodies": [ "Master Cycle*" ],
+        "members": [ "Master Cycle" ],
         "speedGnd": 0.25,
         "speedWtr": -0.25,
         "acceleration": -0.5,
@@ -252,7 +252,7 @@
         "traction": -0.75
     },
     "bodyClass21": {
-        "bodies": [ "Flame Rider", "Standard Bike" ],
+        "members": [ "Flame Rider", "Standard Bike" ],
         "speedGnd": -0.25,
         "speedWtr": -0.25,
         "speedGrv": 0.25,
@@ -266,7 +266,7 @@
         "invincibility": -0.25
     },
     "bodyClass22": {
-        "bodies": [ "Wild Wiggler" ],
+        "members": [ "Wild Wiggler" ],
         "speedGnd": -0.25,
         "speedWtr": -0.25,
         "speedGrv": 0.25,
@@ -280,7 +280,7 @@
         "invincibility": -0.5
     },
     "bodyClass23": {
-        "bodies": [ "W 25 Silver Arrow" ],
+        "members": [ "W 25 Silver Arrow" ],
         "speedGnd": -0.25,
         "speedWtr": -0.25,
         "speedGrv": 0.25,
@@ -293,7 +293,7 @@
         "miniturbo": 0.25
     },
     "bodyClass24": {
-        "bodies": [ "Blue Falcon" ],
+        "members": [ "Blue Falcon" ],
         "speedGnd": 0.25,
         "speedWtr": -0.25,
         "speedGrv": 0.25,
@@ -306,7 +306,7 @@
         "invincibility": 0.25
     },
     "bodyClass25": {
-        "bodies": [ "Splat Buggy" ],
+        "members": [ "Splat Buggy" ],
         "speedGnd": 0.25,
         "speedWtr": -0.25,
         "speedGrv": 0.25,
@@ -318,7 +318,7 @@
         "handlingGrv": 0.5
     },
     "bodyClass26": {
-        "bodies": [ "Tanooki Kart" ],
+        "members": [ "Tanooki Kart" ],
         "speedGnd": -0.25,
         "speedWtr": 0.25,
         "acceleration": -0.5,
@@ -329,7 +329,7 @@
         "invincibility": 0.25
     },
     "bodyClass27": {
-        "bodies": [ "Koopa Clown", "Master Cycle Zero" ],
+        "members": [ "Koopa Clown", "Master Cycle Zero" ],
         "speedGnd": -0.25,
         "speedWtr": 0.25,
         "acceleration": -0.5,

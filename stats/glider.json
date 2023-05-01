@@ -1,0 +1,39 @@
+{
+	"gliderClass0": {
+		"members": [ "Hylian Kite", "Super Glider", "Waddle Wing" ]
+	},
+	"gliderClass1": {
+		"members": [ "Cloud Glider", "Flower Glider", "Paper Glider", "Parachute" ],
+		"speedGnd": -0.25,
+		"speedAir": -0.25,
+		"speedGrv": 0.25,
+		"acceleration": 0.25,
+		"weight": -0.25,
+		"handlingAir": 0.25,
+		"miniturbo": 0.25,
+		"invincibility": -0.25
+	},
+	"gliderClass2": {
+		"members": [ "Gold Glider", "Paraglider", "Plane Glider", "Wario Wing" ],
+		"speedWtr": -0.25,
+		"speedGrv": 0.25,
+		"weight": 0.25,
+		"handlingWtr": 0.25,
+		"handlingGrv": -0.25,
+		"traction": -0.25
+	},
+	"gliderClass3": {
+		"members": [ "Bowser Kite", "MKTV Parafoil", "Parafoil", "Peach Parasol" ],
+		"speedGnd": -0.25,
+		"speedWtr": -0.25,
+		"speedAir": -0.25,
+		"speedGrv": 0.25,
+		"acceleration": 0.25,
+		"handlingWtr": 0.25,
+		"handlingAir": 0.25,
+		"handlingGrv": -0.25,
+		"traction": -0.25,
+		"miniturbo": 0.25,
+		"invincibility": -0.25
+	}
+}
